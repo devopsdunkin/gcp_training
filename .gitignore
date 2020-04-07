@@ -1,3 +1,4 @@
 account.json
 .DS_Store
 .terraformrc
+.terraform
